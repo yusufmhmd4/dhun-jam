@@ -1,0 +1,15 @@
+.not-found-container{
+    color: #fff;
+    text-align: center;
+}
+.not-found-icon{
+    height: 80px;
+    width: 80px;
+    margin-bottom: 1rem;
+}
+.not-found-container h3{
+    font-family: Poppins;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 900;
+}
